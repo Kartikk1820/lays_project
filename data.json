@@ -1,0 +1,9 @@
+{
+    "payment_id": "pmnrf@centralbank",
+    "admin_credentials": [
+        {
+            "id": "admin",
+            "password": "1234"
+        }
+    ]
+}

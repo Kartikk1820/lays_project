@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Daily Earnings Daily Withdrawals A",
+        "initial_deposit": 480.0,
+        "daily_rate": 0.25,
+        "time_duration": 180,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals B",
+        "initial_deposit": 1970.0,
+        "daily_rate": 0.27,
+        "time_duration": 180,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals C",
+        "initial_deposit": 4980.0,
+        "daily_rate": 0.2939,
+        "time_duration": 170,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals D",
+        "initial_deposit": 17700.0,
+        "daily_rate": 0.32,
+        "time_duration": 170,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals E",
+        "initial_deposit": 36600.0,
+        "daily_rate": 0.357,
+        "time_duration": 150,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals F",
+        "initial_deposit": 57800.0,
+        "daily_rate": 0.4,
+        "time_duration": 150,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals G",
+        "initial_deposit": 78900.0,
+        "daily_rate": 0.45,
+        "time_duration": 130,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals H",
+        "initial_deposit": 98800.0,
+        "daily_rate": 0.5,
+        "time_duration": 130,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals I",
+        "initial_deposit": 188000.0,
+        "daily_rate": 0.59,
+        "time_duration": 100,
+        "option": "A"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals 1",
+        "initial_deposit": 3500.0,
+        "daily_rate": 1,
+        "time_duration": 3,
+        "option": "B"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals 2",
+        "initial_deposit": 9000.0,
+        "daily_rate": 1.34,
+        "time_duration": 3,
+        "option": "B"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals 3",
+        "initial_deposit": 20000.0,
+        "daily_rate": 1.9,
+        "time_duration": 3,
+        "option": "B"
+    },
+    {
+        "name": "Daily Earnings Daily Withdrawals 4",
+        "initial_deposit": 40000.0,
+        "daily_rate": 2.38,
+        "time_duration": 1,
+        "option": "B"
+    }
+]
